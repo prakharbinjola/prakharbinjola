@@ -16,6 +16,8 @@ A stats graduate with experience in data collection and reporting currently stud
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" width="36" height="36" alt="PowerBI" /></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" width="36" height="36" alt="Tableau" /></a>
 </p>
 
 ### Socials
